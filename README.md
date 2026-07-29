@@ -22,3 +22,16 @@ Somes  uma empresa que fabrica suplementos alimentares. O time de produtos quer 
 **04. Atletas que treinam mais frequentemente ganham mais massa muscular independentemente do suplemento?**  
 **05. Existe alguma correlação entre idade, frequência de treino e a eficácia do suplemento?**  
 **06. Qual fórmula você recomendaria para atletas que treinam mais de 5 vezes por semana? Justifique sua escolha.**  
+
+
+## Tecnologias usadas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+```py
+print('Feito com carinho 🌹')
+```
